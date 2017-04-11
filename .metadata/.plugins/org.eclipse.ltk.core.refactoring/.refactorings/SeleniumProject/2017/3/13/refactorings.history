@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;driverscripta&apos; to &apos;driverscripts&apos;&#x0D;&#x0A;- Original project: &apos;SeleniumProject&apos;&#x0D;&#x0A;- Original element: &apos;SeleniumProject/src/driverscripta&apos;&#x0D;&#x0A;- Renamed element: &apos;SeleniumProject/src/driverscripts&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;driverscripta&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;driverscripta" name="driverscripts" qualified="false" references="true" stamp="1490937484422" textual="false" version="1.0"/>
+</session>
